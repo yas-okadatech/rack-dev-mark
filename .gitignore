@@ -31,3 +31,4 @@ gemfiles/*.lock
 .ruby-version
 .ruby-gemset
 .rvmrc
+.idea
